@@ -1,1 +1,3 @@
-# practice-react-steps
+Steps App
+
+![screenshot](screenshot.png)
